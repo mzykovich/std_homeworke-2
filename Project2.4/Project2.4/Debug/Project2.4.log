@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\my prog\project2.4\project2.4\source.cpp(9): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+d:\my prog\project2.4\project2.4\source.cpp(13): warning C4554: "|": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+  Project2.4.vcxproj -> D:\my prog\Project2.4\Debug\Project2.4.exe
